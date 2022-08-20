@@ -20,5 +20,7 @@
 
 # File/folder structure:
 
+Try with the standard vim directory names.
+
 
  vim:tw=78:ts=4:noet:ft=markdown:norl:
