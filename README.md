@@ -71,7 +71,7 @@ Copyright (c) 2022 Tommy Bollman/McUsr
 *  opt/alt g prints the name of the current colorscheme.
 
 * Try exiting and starting vim again, and control that your
-	last choosen colorscheme is active. On the rare occassion
-	that it isn`t, read about |g:SC_dotfilename| in
-	SwitchColor.txt (:h SwitchColor)
+  last choosen colorscheme is active. On the rare occassion
+  that it isn`t, read about |g:SC_dotfilename| in
+  SwitchColor.txt (:h SwitchColor)
 
